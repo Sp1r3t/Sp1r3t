@@ -13,6 +13,5 @@
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="mailto: tksusha1973@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/288274/email-mail.svg" alt="e-mail" height="30" width="40" /> </a>
-<a href="https://t.me/timannst" target="blank"><img align="center" src="https://hasavjurt.vezetvsem.ru/assets/images/telegram-icon" alt="telegram" height="30" width="40" /></a>
+<a href="https://t.me/timannst" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/019/874/382/large_2x/telegram-apps-icon-free-png.png" alt="telegram" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/sp1rett" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/discord-11.svg" alt="discord" height="30" width="40" /></a>
