@@ -3,17 +3,13 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://luau.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Luau_Logo_%28Programming_Language%29.svg/1200px-Luau_Logo_%28Programming_Language%29.svg.png" alt="luau" width="40" height="40"/>
-  </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Luau_Logo_%28Programming_Language%29.svg/1200px-Luau_Logo_%28Programming_Language%29.svg.png" alt="luau" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
   <a href="https://doc.qt.io/" target="_blank">
-    <img src="https://www.svgrepo.com/show/374021/qml.svg" alt="qt" width="40" height="40"/>
-  </a>
+    <img src="https://www.svgrepo.com/show/374021/qml.svg" alt="qt" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 </p>
 
 <table align="center">
