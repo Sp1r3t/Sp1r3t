@@ -10,5 +10,5 @@
 
 🔗 &nbsp;**Connect with me**
 <p align="center">>
-<a align="center">href="https://t.me/timannst" target="blank"><img align="center" src="https://www.svgrepo.com/show/452115/telegram.svg" alt="telegram" height="30" width="40" /></a>
-<a align="center"> href="https://discordapp.com/users/sp1rett" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/discord-11.svg" alt="discord" height="30" width="40" /></a>
+<a href="https://t.me/timannst" target="blank"><img align="center" src="https://www.svgrepo.com/show/452115/telegram.svg" alt="telegram" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/sp1rett" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/discord-11.svg" alt="discord" height="30" width="40" /></a>
