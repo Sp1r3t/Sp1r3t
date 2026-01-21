@@ -24,7 +24,7 @@
 </table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sp1r3t&layout=compact&hide=html,css&card_width=300" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fl0mast3r&layout=compact&hide=html,css&card_width=300" alt="Top Languages" />
 </p>
 
 <h3 align="center">Connect with me:</h3>
