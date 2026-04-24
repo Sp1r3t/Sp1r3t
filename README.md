@@ -6,7 +6,7 @@
   <tr>
     <td align="center">
       <a href="https://luau.org/" target="_blank">
-        <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Luau_Logo_%28Programming_Language%29.svg/1200px-Luau_Logo_%28Programming_Language%29.svg.png" alt="luau" width="40" height="40"/>
+        <img src="https://static.wikia.nocookie.net/roblox/images/a/af/Luau.png/revision/latest?cb=20230210233439" alt="luau" width="40" height="40"/>
       </a>
     </td>
     <td align="center">
