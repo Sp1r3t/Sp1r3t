@@ -37,9 +37,6 @@
     </td>
   </tr>
 </table>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sp1r3t&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Tim's Stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sp1r3t&theme=react-dark&bg_color=1a1b27&hide_border=true&line=3b82f6&point=1e3a8a" alt="Activity Graph" />
