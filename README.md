@@ -2,12 +2,30 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-<p align="center">
-  <a href="https://luau.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Luau_Logo_%28Programming_Language%29.svg/1200px-Luau_Logo_%28Programming_Language%29.svg.png" alt="luau" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://doc.qt.io/" target="_blank"><img src="https://www.svgrepo.com/show/374021/qml.svg" alt="qt" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://luau.org/" target="_blank">
+        <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Luau_Logo_%28Programming_Language%29.svg/1200px-Luau_Logo_%28Programming_Language%29.svg.png" alt="luau" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.w3schools.com/cpp/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://doc.qt.io/" target="_blank">
+        <img src="https://www.svgrepo.com/show/374021/qml.svg" alt="qt" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://git-scm.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <table align="center">
   <tr>
@@ -26,7 +44,17 @@
 
 <h3 align="center">Connect with me:</h3>
 
-<p align="center">
-  <a href="https://t.me/timannst" target="_blank"><img src="https://www.svgrepo.com/show/452115/telegram.svg" alt="telegram" width="40" height="30"/></a>
-  <a href="https://discordapp.com/users/TVOY_ID" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/discord-11.svg" alt="discord" width="40" height="30"/></a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://t.me/timannst" target="_blank">
+        <img src="https://www.svgrepo.com/show/452115/telegram.svg" alt="telegram" width="40" height="30"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://discordapp.com/users/TVOY_ID" target="_blank">
+        <img src="https://cdn.worldvectorlogo.com/logos/discord-11.svg" alt="discord" width="40" height="30"/>
+      </a>
+    </td>
+  </tr>
+</table>
